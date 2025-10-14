@@ -21,10 +21,10 @@
         "security": "reality",
         "realitySettings": {
           "show": false,
-          "dest": "www.cloudflare.com:443",
+          "dest": "web.max.ru:443",
           "xver": 0,
           "serverNames": [
-            "www.cloudflare.com"
+            "web.max.ru"
           ],
           "privateKey": "YOUR_PRIVATE_KEY",
           "shortIds": [
